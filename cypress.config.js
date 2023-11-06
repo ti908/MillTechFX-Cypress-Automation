@@ -22,6 +22,7 @@ module.exports = defineConfig({
   env: {
     url: "https://demoqa.com/",
   },
+  projectId: "yjmoqo",
   e2e: {
     setupNodeEvents,
     //specPattern: '**/*.{feature,features}','**/*.{feature,features}',
